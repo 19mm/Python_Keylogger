@@ -6,7 +6,9 @@ This Python script demonstrates basic keyboard event monitoring using the pynput
 **Features:**
 
 Captures key presses.
+
 Logs key presses to a text file named "keys.txt".
+
 Stops capturing when the End key is released (optional).
 
 
