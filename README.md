@@ -4,16 +4,13 @@ This Python script demonstrates basic keyboard event monitoring using the pynput
 
 
 **Features:**
+  Captures key presses.
 
-Captures key presses.
+  Logs key presses to a text file named "keys.txt".
 
-Logs key presses to a text file named "keys.txt".
-
-Stops capturing when the End key is released (optional).
+  Stops capturing when the End key is released (optional).
 
 
 **Requirements:**
-
-Python 3
-
-pynput library (pip install pynput)
+  Python 3
+  pynput library (pip install pynput)
